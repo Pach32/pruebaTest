@@ -1,0 +1,23 @@
+{
+  "name": "primera",
+  "version": "1.0.0",
+  "description": "sumarNumeros",
+  "main": "primera",
+  "scripts": {
+    "test": "jest"
+    },
+  
+  "repository": {
+    "type": "git",
+    "url": "Pach32"
+  },
+  "keywords": [
+    "pedernera349"
+  ],
+  "author": "nicolas",
+  "license": "UNLICENSED"
+
+  
+
+  
+}
